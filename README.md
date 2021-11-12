@@ -2,7 +2,7 @@
 - 👀 I’m interested in php, oracle sql and java programming
 - 🌱 I’m currently learning java, red hat and AI.
 - 💞️ I’m looking to collaborate on graphic and db design.
-- 📫 How to reach me leatamman@gmail.com
+- 📫 How to reach me felixonrocks on twitter.
 
 <!---
 felixonrocks/felixonrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
